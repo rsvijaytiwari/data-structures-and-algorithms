@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int arr[] = {5, 2, 8, 1, 9};
+    int arr[] = {2,4,6,8,10};
     int size = sizeof(arr) / sizeof(arr[0]);
     int pairs = 0;
     int ts = 0;
